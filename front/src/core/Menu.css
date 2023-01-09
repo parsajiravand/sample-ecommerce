@@ -1,0 +1,7 @@
+.active {
+  color: white;
+  background: #7600dc;
+}
+.inactive {
+  font-style: italic;
+}
